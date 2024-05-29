@@ -151,6 +151,7 @@ button:hover {
   gap: 12px;
   width: 640px;
   margin: auto;
+  justify-content: center;
 }
 
 .product-card {
